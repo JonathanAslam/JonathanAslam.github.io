@@ -19,3 +19,5 @@ My GitHub page is http://github.com/JonathanAslam.
 * Lab 10
 
     In Lab 10, Part 3, we were tasked to write a program that would make a gradient image using RGB values. It was a more complex program compared to many of the other ones we had in previous weeks, but the main reason I chose this to be one of my favorites is because this program layed the foundation for future creativity in terms of graphics through coding. In the lecture we were showed the basic graidient picuters, but our lecutre professor also showed a code which was able to be put onto a business card and displayed a very detailed image with reflective surfaces and other features that just amazed me. Overall, part 3 of lab 10 was a good project to show the applications of programming for graphic design which I loved. 
+
+![The gradient image from Lab 10](images/gradient_image.png)
